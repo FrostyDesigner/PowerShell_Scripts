@@ -1,0 +1,133 @@
+name, company, role
+Aaron Bird, Bizible, Founder & CEO
+Aaron Easterly, Rover.com, CEO
+Adam Selipsky, Tableau, CEO
+Adam Wray, AstrumU, CEO
+Andy Dale, Montlake, Capital Managing Partner
+Andy Liu, Unlock Venture Partners, Partner
+Andy Sack, Founders Co-op, Co-founder
+Arif Kareem, Extrahop, CEO
+Barry Crist, Chef Software, CEO
+Ben Slivka, Dreambox, Founder
+Bill Owens, Red Bison LLC, Co-founder
+Bill Richter, Qumulo, CEO
+Bob Kelly, Ignition Partners, Managing Partner
+Bob Nelsen, Arch Venture Partners, Managing Director
+Bob Ratliffe, Silver Creek Capital, President
+Brad C Kleinfelder, Plateau Software, Inc., Founder
+Brad Jackson, Slalom Consulting, CEO
+Brad Silverberg, Fuel Capital, Co-founder
+Brad Tilden, Alaska Airlines, CEO
+Brent Frei, Smartsheet & TerraClear, Founder
+Bryan Trussel, Glympse, Founder & Chairman
+Chad Robins, Adaptive Biotechnologies, Founder & CEO
+Chia Chin Lee, BigBox VR, Inc., CEO
+Chris Ackerley, Ackerley Partners, Partner
+Chris DeVore, Founders’ Co-op, Managing Partner
+Chris Jostol, Mechanical Sales, Inc., President
+Christopher Young, ChefSteps, Co-founder & CEO
+Clayton Lewis, Arivale, CEO
+Dan Lewis, Convoy, CEO
+Dan Sheeran, Healthslate, CEO
+Dan Todd, Influence Mobile, CEO
+Daryn Nakhuda, Mighty AI, CEO
+Dave Cotter, MessageYes, CEO
+Dave Parker, DKParker, LLC, Managing Partner
+David Naffziger, BrandVerity, Inc., CEO
+Dawn LePore, Drugstore.com, Former CEO
+Dhiren Fonseca, Centares, Partner
+Doug Ray, HarborTech Mobility Inc, Founder & President
+Doug Sackville, Commercial Office Interiors, President
+Dylan Dias, Neal Analytics, CEO & Managing Consultant
+Ed Lazowska, University of Washington CSE, Bill & Melinda Gates Chair
+Eric Anderson, Planetary Holdings, Chairman
+Ethan Caldwell, Marchex, Co-founder
+François Locoh-Donou, F5 Networks, CEO
+Galen Smith, Redbox, CEO
+Grant Canary, DroneSeed, CEO
+Grant Ries, LiveRamp B2B, CEO
+Greg Gottesman, Pioneer Square Labs, Co-Founder
+Hadi Partovi, Code.org, Founder & CEO
+Hans Bjordahl, Culture Foundry, CEO
+Heather Redman, Flying Fish Partners, Co-Founder & Managing Director
+J Scott Codespoti, Paradoxes, Inc., Founder & CEO
+Jason LaBaw, Bonsai Media Group, CEO
+Jason Leekeenan, TraceMe, CEO
+Jay Reitz, Axon, Seattle Office Lead
+Jeff Hussey, Tempered Networks, Inc., CEO
+Jeff Malek, Code Fellows, CEO
+Jesse Proudman, Strix Leviathan, CEO
+Jim Gaherity, Coinstar, CEO
+Jim O’Brien, O’Brien Business GRP, CEO
+Joe Heitzeberg, CrowdCow, CEO
+John Connors, Ignition Partners, Managing Partner
+John Gabbert, Pitchbook, CEO
+John Maffei, Matcherino, CEO
+John Stanton, Trilogy Partners, Founder
+Jon Matsuo, Koverse, CEO
+Jon Roskill, Acumatica, CEO
+Jonathan Sposato, PicMonkey, Founder & Chairman
+Kendall Kunz, Forms On Fire, Inc., Founder & CEO
+Kevin Gemeroy, Dynamic Computing, CEO
+Kiran Bhageshpur, Igenous, CEO
+Kirby Winfield, Ascend.vc, Managing Member
+Kristen Hamilton, Koru, Co-founder & CEO
+Kurt Shintaffer, Apptio, CFO
+Lauren Neiswender, Blue Nile, General Counsel
+Manny Medina, Outreach, CEO
+Mark Britton, Avvo, Founder & CEO
+Mark Hadland, Level 11, CEO
+Mark Liffmann, Omnidian, Inc., CEO
+Mark Okerstrom, Expedia, CEO
+name, business, role
+Mark W. Meyer, CodeSmart, Inc., President
+Mary Snyder, Seattle Luxury Homes, Founding Partner
+Matt McIlwain, Madrona Venture Group, Managing Director
+Michael Schutzler, WTIA, CEO
+Mike Howell, Dolly, CEO
+Mike Metzger, Payscale, CEO
+Nancy Heen, Axelerate, LLC, CEO
+Nick Huzar, OfferUp, CEO
+Nikesh Parekh, Suplari, CEO & Co-Founder
+Oren Etzioni, Allen Institute for AI, CEO
+Paula Reynolds, Prefer West, CEO
+Peder Schmitz, Columbia Pacific Wealth Management, Co-founder
+Penny Milliken, HeR Interactive, CEO
+Pete Christothoulou, Inspo Network, Co-founder & CEO
+Peter Hamilton, TUNE, CEO
+Peter Neupert, Adaptive Biotech, Fred Hutch, LabCorp, Board Director
+Rahul Sood, Unikrn, CEO
+Raj Singh, Accolade, CEO
+Raja Narayana, Aditi, CEO
+Rob Eleveld, Whitepages, Inc., CEO
+Rob Glaser, RealNetworks, Chairman & CEO
+Rob Lilleness, SmartLabs, CEO
+Robbie Cape, 98point6, Co-founder & CEO
+Robert Lehr, Evergreen ID Systems, President
+Robert Nelsen, Arch Venture Partners, Managing Director
+Rudy Gadre, Founders Co-op, General Partner
+Sean Muller, iSpot.tv, CEO
+Sethu Kalavakur, Tavour, CEO
+Shauna Swerland, Youssefnia Fuel Talent, CEO
+Sheila Gulatti, Tola Capital, Managing Director
+Spyro Kourtis, The Hacker Group, CEO
+Sridhar Chandrashekar, Optio3, Inc., Co-founder & CEO
+Srikant Vemparala, 9Logic Technologies, President
+Stead Burwell, Swisslog Healthcare, EVP
+Steinar Sande, Raima Incorporated, CEO
+Steve Banfield, ReachNow, CEO
+Steve Murch, BigOven, CEO
+Steve Shivers, Doxo, CEO
+Steve Singh, Docker, Chairman & CEO
+Sujal Patel, Isilon Systems & Ignite Bio, Founder & CEO
+Sunny Gupta, Apptio, CEO
+Ted Ackerley, Ackerley Partners, Managing Partner
+Terry Drayton, Livible, Founder & CEO
+Thomas Gobeille, NCA, President & CEO
+Thor Culverhouse, Skytap, CEO
+Tim Sooter, Legal+Plus Software Group, Inc., CEO
+Todd Hooper, Vreal, Inc., Founder & CEO
+Todd Owens, Azuqua, CEO
+Tom Alberg, Madrona Venture Group, Managing Director
+Tom Serry, RealSelf, Founder & CEO
+Tom Taft, Laurel Group, Managing Partner
